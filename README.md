@@ -3,7 +3,7 @@ Aqui um breve historico da minha caminhada na progamação
 
 Atualmente trabalho como frelancer na area de TI
 
-Entusiasta de robotica e progamação front end 
+Entusiasta de robotica e progamação full stack
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyssonBrend&show_icons=true)
